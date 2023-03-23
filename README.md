@@ -9,7 +9,8 @@ Here is a breakdown of the code:
 
     - The "import" statements at the beginning of the script import the necessary libraries: os and "PySimpleGUI".
 
-    - The "ControlComputer" class is defined, which contains the main logic of the program. The "__init__" method initializes the "commands" dictionary, which maps each command (e.g., "Firefox") to a corresponding function that will be called when the command is executed. The GUI is also set up in this method using the "sg.Button" method to create buttons for each command.
+    - The "ControlComputer" class is defined, which contains the main logic of the program. The "__init__" method initializes the "commands" dictionary, which maps each command (e.g., "Firefox") to a corresponding function that will be called when the command is executed. 
+    The GUI is also set up in this method using the "sg.Button" method to create buttons for each command.
 
     - The "start" method is called to start the GUI loop, which waits for user input until the user closes the window or clicks the "Exit" button.
 
