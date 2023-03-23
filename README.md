@@ -26,4 +26,5 @@ Here is a breakdown of the code:
     - The "os" library is used to execute system commands, such as opening programs or shutting down the computer.
 
 The authors of the "PySimpleGUI" library are MikeTheWatchGuy and PySimpleGUI contributors.
+
 The "os" library is part of the Python standard library.
