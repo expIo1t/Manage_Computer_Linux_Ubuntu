@@ -1,6 +1,9 @@
 # control_computer.py
 
-This is a Python script that creates a simple graphical user interface (GUI) using the PySimpleGUI library to allow the user to control various computer functions via button clicks. Operating system - "Linux Ubuntu 22.04.2" 🐧. The available commands include opening Firefox, Discord, Notepad, and Steam, as well as restarting or turning off the computer. 
+This is a Python script that creates a simple graphical user interface (GUI) using the PySimpleGUI library to allow the user to control various computer functions via button clicks.
+
+Operating system - "Linux Ubuntu 22.04.2" 🐧. 
+The available commands include opening Firefox, Discord, Notepad, and Steam, as well as restarting or turning off the computer. 
 
 Here is a breakdown of the code:
 
